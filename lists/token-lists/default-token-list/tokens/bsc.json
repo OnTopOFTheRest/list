@@ -1,5 +1,18 @@
 [
   {
+    "address": "0xCc4fed6698350ADF958C5335FdbaC4bA93334798"
+    "chainId": 56,
+    "name": "OnTopOfTheRest",
+    "symbol": "OTR",
+    "logoURI" https://github.com/OnTopOFTheRest/OTR/blob/26d7e150012540f68f5c46c4d0c7a5dc925d713b/logo.png
+    "type": "BEP2",
+    "decimals": 9,
+    "description": "-",
+    "website": "",
+    "explorer": "https://bscscan.com/token/0xcc4fed6698350adf958c5335fdbac4ba93334798",
+    "status": "active",
+}
+  {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
     "chainId": 56,
     "decimals": 18,
